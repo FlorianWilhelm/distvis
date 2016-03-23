@@ -1,5 +1,5 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/FlorianWilhelm/distvis)
 
-# distvis
-Jupyter visualiser for all SciPy distributions based on Bokeh.
-Just press the "launch binder"-button on Github to start a Jupyter session.
+# SciPy Distribution Visualiser 
+Visualiser for all SciPy distributions in a Jupyter notebook based on Bokeh.
+Just press the [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/FlorianWilhelm/distvis)-button to start an interactive Jupyter session.
