@@ -6,10 +6,10 @@ Just click [here](http://mybinder.org/repo/FlorianWilhelm/distvis) to start an i
 
 |
 
-.. image:: https://github.com/FlorianWilhelm/distvis/blob/master/alpha_dist.png 
+.. image:: https://github.com/FlorianWilhelm/distvis/blob/master/alphadist.png 
     :height: 644px
     :width: 788px
     :scale: 60 %
-    :alt: PyScaffold logo
+    :alt: Screenshot of Alpha distribution
     :align: center
 
