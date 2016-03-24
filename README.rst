@@ -1,8 +1,12 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/FlorianWilhelm/distvis)
+.. image:: http://mybinder.org/badge.svg
+    :target: http://mybinder.org/repo/FlorianWilhelm/distvis
 
-# SciPy Distribution Visualiser 
+
+SciPy Distribution Visualiser 
+=============================
+
 Visualiser for all SciPy distributions in a Jupyter notebook based on Bokeh.
-Just click [here](http://mybinder.org/repo/FlorianWilhelm/distvis) to start an interactive Jupyter session.
+Just click `here <http://mybinder.org/repo/FlorianWilhelm/distvis>`_ to start an interactive Jupyter session.
 
 |
 
